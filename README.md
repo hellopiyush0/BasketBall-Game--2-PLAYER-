@@ -1,2 +1,20 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Basket Ball (2 PLAYER GAME)
+
+## LINK TO PLAY THIS GAME
+
+```
+https://hellopiyush0.github.io/BasketBall-Game--2-PLAYER-/```
+
+## HOW TO PLAY THIS HAME
+
+```
+UP ARROW KEY = USE UP ARROW TO GO UP
+```
+```
+LEFT ARROW KEY = USE LEFT ARROW TO GO LEFT
+```
+```
+RIGHT ARROW KEY = USE RIGHT ARROW TO GOT RIGHT
+```
+
+**I HOPE YOU ENJOY THIS GAME** 
