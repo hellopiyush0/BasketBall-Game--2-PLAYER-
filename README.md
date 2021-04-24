@@ -5,7 +5,7 @@
 ```
 https://hellopiyush0.github.io/BasketBall-Game--2-PLAYER-/
 ```
-## HOW TO PLAY THIS HAME
+## HOW TO PLAY THIS GAME
 
 ```
 UP ARROW KEY = USE UP ARROW TO GO UP
