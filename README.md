@@ -3,7 +3,7 @@
 ## LINK TO PLAY THIS GAME
 
 ```
-https://hellopiyush0.github.io/BasketBall-Game--2-PLAYER-/```
+https://hellopiyush0.github.io/BasketBall-Game--2-PLAYER-/
 
 ## HOW TO PLAY THIS HAME
 
